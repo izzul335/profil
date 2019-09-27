@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+#intro {
+  width: 100%;
+  position: relative;
+  background: url("../img/intro-bg.png") center;
+  background-size: cover;
+  padding: 250px 0 150px 0;
+}
